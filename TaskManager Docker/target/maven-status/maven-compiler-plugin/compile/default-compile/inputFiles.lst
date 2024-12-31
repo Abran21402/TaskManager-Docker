@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\task-mangaer-main\src\main\java\com\ust\TaskManager\controller\TaskController.java
+C:\Users\Administrator\Desktop\task-mangaer-main\src\main\java\com\ust\TaskManager\dto\TaskDTO.java
+C:\Users\Administrator\Desktop\task-mangaer-main\src\main\java\com\ust\TaskManager\entity\Task.java
+C:\Users\Administrator\Desktop\task-mangaer-main\src\main\java\com\ust\TaskManager\exception\ErrorResponse.java
+C:\Users\Administrator\Desktop\task-mangaer-main\src\main\java\com\ust\TaskManager\exception\GlobalExceptionHandler.java
+C:\Users\Administrator\Desktop\task-mangaer-main\src\main\java\com\ust\TaskManager\exception\TaskNotFoundException.java
+C:\Users\Administrator\Desktop\task-mangaer-main\src\main\java\com\ust\TaskManager\repository\TaskRepository.java
+C:\Users\Administrator\Desktop\task-mangaer-main\src\main\java\com\ust\TaskManager\service\TaskService.java
+C:\Users\Administrator\Desktop\task-mangaer-main\src\main\java\com\ust\TaskManager\TaskManagerApplication.java

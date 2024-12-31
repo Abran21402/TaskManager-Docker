@@ -1,0 +1,9 @@
+com\ust\TaskManager\entity\Task.class
+com\ust\TaskManager\controller\TaskController.class
+com\ust\TaskManager\dto\TaskDTO.class
+com\ust\TaskManager\exception\TaskNotFoundException.class
+com\ust\TaskManager\TaskManagerApplication.class
+com\ust\TaskManager\repository\TaskRepository.class
+com\ust\TaskManager\exception\ErrorResponse.class
+com\ust\TaskManager\service\TaskService.class
+com\ust\TaskManager\exception\GlobalExceptionHandler.class
